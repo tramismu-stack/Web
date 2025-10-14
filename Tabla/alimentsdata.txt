@@ -1,0 +1,32 @@
+Nom 
+	Pastanaga
+url
+    https://ca.wikipedia.org/wiki/Pastanaga
+Imatge
+	https://images.unsplash.com/photo-1445282768818-728615cc910a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
+kCalx100gr:
+	37
+gr de Sucrex100gr:
+	0
+
+Nom 
+	Phoskitios
+url 
+    https://ca.wikipedia.org/wiki/Phoskitos
+Imatge
+	https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Phoskitos_-_002.jpg/1280px-Phoskitos_-_002.jpg
+kCalx100gr:
+	419
+gr de Sucrex100gr:
+	24
+
+Nom 
+	Carn de bou
+url 
+    https://ca.wikipedia.org/wiki/Carn_de_bou
+Imatge
+	https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Standing-rib-roast-MCB.jpg/220px-Standing-rib-roast-MCB.jpg
+kCalx100gr:
+	104
+gr de Sucrex100gr:
+	0
