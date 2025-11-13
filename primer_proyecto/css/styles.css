@@ -1,6 +1,6 @@
 :root{
     --primario:rgb(154, 226, 81);
-    --secundario:rgb();
+    --secundario:rgb(255, 255 ,255);
 }
 
 html{
@@ -14,7 +14,7 @@ body{
 
 .contenedor{
     margin: 0 auto;
-    color: rgb(3, 255, 154);
+    color: rgb(0, 0, 0);
 }
 
 .navfondo{
@@ -29,7 +29,6 @@ h1{
 h2{
     font-size: 1.5rem;
 }
-
 h3{}
 
 .titulo{
